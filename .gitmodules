@@ -1,3 +1,6 @@
 [submodule "multi-module-maven-using-dependencies"]
 	path = multi-module-maven-using-dependencies
 	url = https://github.com/benjaminkost/multi-module-maven-using-dependencies.git
+[submodule "generate-client-w-openapi"]
+	path = generate-client-w-openapi
+	url = https://github.com/benjaminkost/generate-client-w-openapi.git
